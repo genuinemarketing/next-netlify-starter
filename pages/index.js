@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="GENUINE MARKETING" />
         <p className="description">
-          In progress!
+          WORK IN PROGRESS!
         </p>
       </main>
 
